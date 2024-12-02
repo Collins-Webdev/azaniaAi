@@ -48,7 +48,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Johannesburg, South Africa</li>
+              <li>Harare, Zimbabwe</li>
               <li>contact@azaniaai.com</li>
               <li>+27 (0) 123 456 789</li>
             </ul>

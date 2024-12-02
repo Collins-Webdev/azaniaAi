@@ -47,7 +47,7 @@ export default function Contact() {
                   <MapPin className="h-6 w-6 text-purple-400" />
                   <div>
                     <p className="text-white font-medium">Location</p>
-                    <p className="text-gray-400">Johannesburg, South Africa</p>
+                    <p className="text-gray-400">Harare, Zimbabwe</p>
                   </div>
                 </div>
               </div>
