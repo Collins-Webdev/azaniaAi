@@ -3,36 +3,36 @@ import { Linkedin, Mail } from 'lucide-react';
 
 const team = [
   {
-    name: 'Dr. Sarah Ndlovu',
+    name: 'Mr. xxx',
     role: 'Chief Executive Officer',
     image: 'https://images.unsplash.com/photo-1594751543129-6701ad444259?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
-    bio: 'With over 15 years of experience in AI and machine learning, Dr. Ndlovu leads Azania AI\'s mission to democratize AI across Africa.',
+    bio: 'With over x years of experience in AI and machine learning, Mr. xxx leads Azania AI\'s mission to democratize AI across Africa.',
     linkedin: '#',
-    email: 'sarah@azaniaai.com'
+    email: 'xxx@azaniaai.com'
   },
   {
-    name: 'Michael Okonjo',
+    name: 'Mr. xxx',
     role: 'Chief Technology Officer',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
-    bio: 'A pioneer in ethical AI development, Michael brings extensive experience in building scalable AI solutions for African businesses.',
+    bio: 'A pioneer in ethical AI development, xxx brings extensive experience in building scalable AI solutions for African businesses.',
     linkedin: '#',
-    email: 'michael@azaniaai.com'
+    email: 'xxx@azaniaai.com'
   },
   {
-    name: 'Dr. Amara Diallo',
+    name: 'Mr. xxx',
     role: 'Chief Research Officer',
     image: 'https://images.unsplash.com/photo-1619946794135-5bc917a27793?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
-    bio: 'Leading our research initiatives, Dr. Diallo focuses on developing AI solutions that address unique African challenges.',
+    bio: 'Leading our research initiatives, Mr. xxx focuses on developing AI solutions that address unique African challenges.',
     linkedin: '#',
-    email: 'amara@azaniaai.com'
+    email: 'xxx@azaniaai.com'
   },
   {
-    name: 'David Mensah',
+    name: 'Mr. xxx',
     role: 'Chief Operating Officer',
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80',
-    bio: 'David ensures smooth operations and delivery of our AI solutions while maintaining our commitment to ethical practices.',
+    bio: 'xxx ensures smooth operations and delivery of our AI solutions while maintaining our commitment to ethical practices.',
     linkedin: '#',
-    email: 'david@azaniaai.com'
+    email: 'xxx@azaniaai.com'
   }
 ];
 

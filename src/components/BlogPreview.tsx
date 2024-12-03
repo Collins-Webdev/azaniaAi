@@ -12,14 +12,14 @@ const blogPosts = [
   {
     title: 'Ubuntu Philosophy in AI Development',
     excerpt: 'How African values are shaping the development of ethical AI solutions.',
-    image: 'https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1622295023825-6e319464b810?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     category: 'Ethics',
     readTime: '4 min read'
   },
   {
     title: 'AI Education: Empowering the Next Generation',
     excerpt: 'Building capacity for AI development across the continent.',
-    image: 'https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1543689604-6fe8dbcd1f59?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     category: 'Education',
     readTime: '6 min read'
   }

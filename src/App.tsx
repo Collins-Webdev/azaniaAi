@@ -23,7 +23,8 @@ function App() {
       />
       <Solutions />
       <About />
-
+      <Team />
+      <BlogPreview />
       <Contact />
       <Footer />
       <JoinWaitlist isOpen={isWaitlistOpen} onClose={() => setIsWaitlistOpen(false)} />
